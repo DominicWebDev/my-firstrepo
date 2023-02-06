@@ -1,1 +1,1 @@
-my first day on GitHub
+my first day on GITHUB
